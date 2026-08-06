@@ -2,7 +2,7 @@
 
 <!-- Futuristic Cyan & Emerald Header -->
 <a href="https://github.com/Krish-065">
-  <img src="https://capsule-render.vercel.app/api?type=waving&gradient_from=00E5FF&gradient_to=00FF87&height=220&section=header&text=KRISH%20SHAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Architect%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00FF87&height=220&section=header&text=KRISH%20SHAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Architect%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header" width="100%" />
 </a>
 
 <!-- Dynamic Typing SVG -->
@@ -22,7 +22,7 @@
 <br><br>
 
 <!-- Animated Color-Changing Thin Line -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="Animated Line" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
 ## 👨‍💻 `whoami.sh`
@@ -32,24 +32,24 @@
     <td width="65%" style="border: none; padding-right: 20px; font-size: 15px; color: #c9d1d9;">
       <h3 style="color: #00E5FF; margin-top: 0;">Status: <span style="color: #00FF87;">3rd Year Undergrad | Tech Innovator</span></h3>
       <p>
-        Welcome to my digital workspace! I am a passionate <b>Data Science and AI/ML Engineer</b> with a strong foundation in software architecture. My primary mission is to transform conceptual ideas and student projects into <b>highly optimized, production-ready applications</b> with real-world impact.
+        Welcome to my digital workspace! I am a dedicated <b>Data Science and AI/ML Engineer</b> with a strong foundation in software architecture. My primary mission is to transform conceptual ideas and student projects into <b>highly optimized, production-ready applications</b> with real-world impact.
       </p>
       <ul style="line-height: 1.7;">
         <li><strong style="color: #00E5FF;">Machine Learning & AI:</strong> Specialized in developing predictive models, Computer Vision applications, and fine-tuning Deep Learning neural networks.</li>
         <li><strong style="color: #00FF87;">Software Engineering:</strong> Architecting scalable backend systems, designing robust RESTful APIs, and implementing seamless database integrations.</li>
-        <li><strong style="color: #00E5FF;">Current Trajectory:</strong> Deepening my expertise in advanced Data Infrastructures, Natural Language Processing, and optimizing end-to-end data pipelines.</li>
+        <li><strong style="color: #00E5FF;">Key Achievements:</strong> Engineered complex end-to-end data pipelines, developed high-accuracy ML models for predictive analysis, and optimized scalable backend APIs.</li>
         <li><strong style="color: #00FF87;">Open To:</strong> Seeking high-impact AI/ML internships, collaborative tech projects, and freelance opportunities to solve complex data challenges.</li>
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <!-- Cool Sci-Fi Data Processing GIF -->
-      <img src="https://i.pinimg.com/originals/f9/57/06/f957065099cb29bdf4b4b0e52ddccb42.gif" alt="Data Science Animation" width="100%" style="border-radius: 12px; border: 1px solid #00E5FF; box-shadow: 0 0 15px rgba(0, 229, 255, 0.3);" />
+      <!-- Reliable GitHub Hosted AI/Neural Network GIF -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" alt="AI Neural Network Animation" width="100%" style="border-radius: 12px; border: 1px solid #00E5FF; box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="Animated Line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
 ## ⚙️ `core_infrastructure.json`
@@ -72,7 +72,7 @@
 
 <div align="center">
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="Animated Line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
 ## 📈 `performance_analytics.csv`
@@ -100,7 +100,7 @@
 </table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%" alt="Animated Line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
 ## 📡 `establish_connection()`
@@ -122,5 +122,5 @@
   <br><br><br>
   
   <!-- Animated Footer Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=8&section=footer" width="100%" alt="Footer Line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=8&section=footer" width="100%" alt="Footer Line" />
 </div>
