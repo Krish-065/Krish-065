@@ -5,10 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00FF87&height=220&section=header&text=KRISH%20SHAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Architect%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header" width="100%" />
 </a>
 
-<!-- Dynamic Typing SVG -->
+<!-- Dynamic Typing SVG (Fixed URL Encoding) -->
 <br>
 <a href="https://github.com/Krish-065">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=>_3rd+Year+Undergrad+&+Tech+Explorer;>_Training+Intelligent+Deep+Learning+Models;>_Building+Production-Ready+Applications;>_Bridging+Data+Science+&+Software+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=3rd+Year+Undergrad+and+Tech+Explorer;Architecting+Intelligent+Deep+Learning+Models;Building+Production-Ready+Applications;Bridging+Data+Science+and+Software+Engineering" alt="Typing SVG" />
 </a>
 <br><br>
 
@@ -42,8 +42,8 @@
       </ul>
     </td>
     <td width="35%" align="center" style="border: none;">
-      <!-- Reliable GitHub Hosted AI/Neural Network GIF -->
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" alt="AI Neural Network Animation" width="100%" style="border-radius: 12px; border: 1px solid #00E5FF; box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);" />
+      <!-- Highly Reliable Matrix/Coding GIF -->
+      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding Matrix Animation" width="280" style="border-radius: 12px; border: 1px solid #00E5FF; box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);" />
     </td>
   </tr>
 </table>
@@ -65,7 +65,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </div>
