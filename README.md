@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:00FF87&height=220&section=header&text=KRISH%20SHAH&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Architect%20%7C%20Data%20Scientist%20%7C%20Software%20Engineer&descAlignY=60&descAlign=50" alt="Header" width="100%" />
 </a>
 
-<!-- Dynamic Typing SVG (Fixed URL Encoding) -->
+<!-- Dynamic Typing SVG -->
 <br>
 <a href="https://github.com/Krish-065">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=3rd+Year+Undergrad+and+Tech+Explorer;Architecting+Intelligent+Deep+Learning+Models;Building+Production-Ready+Applications;Bridging+Data+Science+and+Software+Engineering" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
-## 👨‍💻 `whoami.sh`
+## `[ ~ ] ./whoami.sh`
 
 <table width="100%" style="border: none; background-color: transparent;">
   <tr>
@@ -52,7 +52,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
-## ⚙️ `core_infrastructure.json`
+## `&lt; core_infrastructure.json /&gt;`
 
 <div align="center">
   <p style="color: #00E5FF; font-family: monospace; font-size: 15px;"><b>[ LANGUAGES & BACKEND SYSTEMS ]</b></p>
@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Gemini_AI-1A73E8?style=for-the-badge&logo=google&logoColor=white" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </div>
@@ -74,7 +75,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
-## 📈 `performance_analytics.csv`
+## `>_ performance_analytics.csv`
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr>
@@ -102,7 +103,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
 </div>
 
-## 📡 `establish_connection()`
+## `{ ...establish_connection }`
 
 <div align="center">
   <p style="font-size: 16px; color: #c9d1d9;">Always open to discussing data structures, AI architectures, or future opportunities.</p>
