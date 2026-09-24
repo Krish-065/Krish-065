@@ -81,106 +81,70 @@
 
 <div align="center">
 
-## `>_ SYSTEM_TELEMETRY.exe`
+## `>_ LIVE_GITHUB_TELEMETRY`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3&width=900" width="85%" alt="Telemetry Divider" />
-
-<br>
-
-<!-- SYSTEM STATUS -->
-<table width="92%">
-<tr>
-<td align="center" width="25%">
-
-### `01`
-<img src="https://img.shields.io/badge/GITHUB-ACTIVE-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
-
-</td>
-
-<td align="center" width="25%">
-
-### `02`
-<img src="https://img.shields.io/badge/CODEBASE-LIVE-0d1117?style=for-the-badge&logo=git&logoColor=00FF87" />
-
-</td>
-
-<td align="center" width="25%">
-
-### `03`
-<img src="https://img.shields.io/badge/AI%2FML-ONLINE-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00E5FF" />
-
-</td>
-
-<td align="center" width="25%">
-
-### `04`
-<img src="https://img.shields.io/badge/SYSTEMS-BUILDING-0d1117?style=for-the-badge&logo=docker&logoColor=00FF87" />
-
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3" width="90%" />
 
 <br>
 
-<!-- GITHUB ANALYTICS -->
-<table width="95%">
+<!-- LIVE ACCOUNT STATUS -->
+<table width="90%">
 <tr>
 
-<td width="50%" align="center">
-
-<a href="https://github.com/Krish-065">
-<img src="https://github-readme-stats.vercel.app/api?username=Krish-065&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00FF87&ring_color=00E5FF&border_radius=18" width="100%" alt="GitHub Performance" />
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="https://github.com/Krish-065">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-065&layout=donut-vertical&langs_count=7&hide_border=true&bg_color=0D1117&title_color=00FF87&text_color=C9D1D9&border_radius=18" width="100%" alt="Language Intelligence" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<!-- ACTIVITY MONITOR -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="90%" alt="Activity Divider" />
-
-<br>
-
-<table width="95%">
-<tr>
 <td align="center">
 
-<a href="https://github.com/Krish-065">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-065&bg_color=0D1117&color=00E5FF&line=00FF87&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&radius=16&custom_title=CODE%20ACTIVITY%20%2F%2F%20SYSTEM%20TELEMETRY" width="100%" alt="GitHub Activity Graph" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Krish-065&style=for-the-badge&color=00FF87&label=PROFILE+VIEWS" />
 
 </td>
+
+<td align="center">
+
+<img src="https://img.shields.io/github/followers/Krish-065?style=for-the-badge&color=00E5FF&label=FOLLOWERS&logo=github" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/github/stars/Krish-065?style=for-the-badge&color=00FF87&label=TOTAL+STARS&logo=github" />
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/github/repos/Krish-065?style=for-the-badge&color=00E5FF&label=REPOSITORIES&logo=github" />
+
+</td>
+
 </tr>
 </table>
 
 <br>
 
-<!-- CONTRIBUTION / STREAK -->
+<!-- LIVE GITHUB PERFORMANCE -->
 <table width="95%">
 <tr>
 
 <td width="50%" align="center">
 
 <a href="https://github.com/Krish-065">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-065&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF87&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border_radius=18" width="100%" alt="GitHub Streak" />
+<img
+src="https://github-readme-stats.vercel.app/api?username=Krish-065&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00FF87&border_radius=18"
+width="100%"
+alt="Live GitHub Statistics"
+/>
 </a>
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krish-065&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time" />
+<a href="https://github.com/Krish-065">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-065&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00FF87&text_color=C9D1D9&border_radius=18"
+width="100%"
+alt="Live Language Statistics"
+/>
+</a>
 
 </td>
 
@@ -189,12 +153,38 @@
 
 <br>
 
-<!-- LIVE SYSTEM LABEL -->
-<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEVELOPMENT%20TELEMETRY-00E5FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00FF87" />
+<!-- LIVE CONTRIBUTION GRAPH -->
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-065&bg_color=0D1117&color=00E5FF&line=00FF87&point=FFFFFF&area=true&hide_border=true&radius=16&custom_title=LIVE%20CONTRIBUTION%20TELEMETRY"
+width="95%"
+alt="Live GitHub Contribution Graph"
+/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3&width=900" width="85%" alt="Telemetry Divider" />
+<!-- LIVE STREAK -->
+<a href="https://github.com/Krish-065">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-065&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF87&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border_radius=18"
+width="75%"
+alt="Live GitHub Contribution Streak"
+/>
+</a>
+
+<br><br>
+
+<!-- CONTRIBUTION SNAKE -->
+<a href="https://github.com/Krish-065">
+<img
+src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
+width="95%"
+alt="GitHub Contribution Snake"
+/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3" width="90%" />
 
 </div>
 
