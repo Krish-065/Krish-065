@@ -79,30 +79,123 @@
 
 ## `>_ performance_analytics.csv`
 
-<table align="center" style="border: none; background-color: transparent;">
-  <tr>
-    <td align="center" style="border: none; padding: 5px;">
-      <a href="https://github.com/Krish-065">
-        <img src="https://github-readme-stats.vercel.app/api?username=Krish-065&show_icons=true&theme=dark&bg_color=0d1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00FF87&hide_border=true&border_radius=10" alt="GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td align="center" style="border: none; padding: 5px;">
-      <a href="https://github.com/Krish-065">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-065&layout=compact&theme=dark&bg_color=0d1117&title_color=00FF87&text_color=c9d1d9&hide_border=true&border_radius=10" alt="Top Languages" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" style="border: none; padding: 5px;">
-      <a href="https://github.com/Krish-065">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-065&bg_color=0d1117&color=00E5FF&line=00FF87&point=ffffff&area=true&hide_border=true&title_color=ffffff&border_radius=10" alt="Activity Graph" width="100%" />
-      </a>
-    </td>
-  </tr>
+<div align="center">
+
+## `>_ SYSTEM_TELEMETRY.exe`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3&width=900" width="85%" alt="Telemetry Divider" />
+
+<br>
+
+<!-- SYSTEM STATUS -->
+<table width="92%">
+<tr>
+<td align="center" width="25%">
+
+### `01`
+<img src="https://img.shields.io/badge/GITHUB-ACTIVE-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" />
+
+</td>
+
+<td align="center" width="25%">
+
+### `02`
+<img src="https://img.shields.io/badge/CODEBASE-LIVE-0d1117?style=for-the-badge&logo=git&logoColor=00FF87" />
+
+</td>
+
+<td align="center" width="25%">
+
+### `03`
+<img src="https://img.shields.io/badge/AI%2FML-ONLINE-0d1117?style=for-the-badge&logo=tensorflow&logoColor=00E5FF" />
+
+</td>
+
+<td align="center" width="25%">
+
+### `04`
+<img src="https://img.shields.io/badge/SYSTEMS-BUILDING-0d1117?style=for-the-badge&logo=docker&logoColor=00FF87" />
+
+</td>
+</tr>
 </table>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="100%" alt="Animated Line" />
+<br>
+
+<!-- GITHUB ANALYTICS -->
+<table width="95%">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Krish-065">
+<img src="https://github-readme-stats.vercel.app/api?username=Krish-065&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&icon_color=00FF87&ring_color=00E5FF&border_radius=18" width="100%" alt="GitHub Performance" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Krish-065">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-065&layout=donut-vertical&langs_count=7&hide_border=true&bg_color=0D1117&title_color=00FF87&text_color=C9D1D9&border_radius=18" width="100%" alt="Language Intelligence" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ACTIVITY MONITOR -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:00FF87&height=2" width="90%" alt="Activity Divider" />
+
+<br>
+
+<table width="95%">
+<tr>
+<td align="center">
+
+<a href="https://github.com/Krish-065">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-065&bg_color=0D1117&color=00E5FF&line=00FF87&point=FFFFFF&area_color=00E5FF&area=true&hide_border=true&radius=16&custom_title=CODE%20ACTIVITY%20%2F%2F%20SYSTEM%20TELEMETRY" width="100%" alt="GitHub Activity Graph" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- CONTRIBUTION / STREAK -->
+<table width="95%">
+<tr>
+
+<td width="50%" align="center">
+
+<a href="https://github.com/Krish-065">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-065&hide_border=true&background=0D1117&ring=00E5FF&fire=00FF87&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777&border_radius=18" width="100%" alt="GitHub Streak" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krish-065&theme=github_dark&utcOffset=5.5" width="100%" alt="Productive Time" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- LIVE SYSTEM LABEL -->
+<img src="https://img.shields.io/badge/%E2%96%B6%20LIVE%20DEVELOPMENT%20TELEMETRY-00E5FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=00FF87" />
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:007CF0,100:00FF87&height=3&width=900" width="85%" alt="Telemetry Divider" />
+
 </div>
 
 ## `{ ...establish_connection }`
